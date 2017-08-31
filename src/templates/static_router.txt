@@ -1,0 +1,8 @@
+config router static
+    edit $id
+        set gateway $gateway
+        set dst $network $netmask
+        set device "$interface"
+        set comment "$comentario"
+    next
+end

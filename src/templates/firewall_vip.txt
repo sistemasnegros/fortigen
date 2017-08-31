@@ -1,0 +1,19 @@
+config firewall vip
+    edit "$name"
+        set id 0
+        set comment ''
+        set type static-nat
+        set extip $ext_ip
+        set extintf "$interface"
+        set arp-reply enable
+        set nat-source-vip disable
+        set portforward enable
+        set gratuitous-arp-interval 0
+        set color 0
+        set mappedip "$host_int"
+        set protocol tcp
+        set extport $port_ext
+        set mappedport $port_int
+        set portmapping-type 1-to-1
+    next
+end

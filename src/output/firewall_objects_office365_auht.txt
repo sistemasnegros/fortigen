@@ -1,0 +1,571 @@
+Newconfig firewall address
+    edit "office_auht1"
+        set type ipmask
+        set comment ''       
+        set subnet 13.67.50.224/29
+    next
+
+    edit "office_auht2"
+        set type ipmask
+        set comment ''       
+        set subnet 13.71.201.64/26
+    next
+
+    edit "office_auht3"
+        set type ipmask
+        set comment ''       
+        set subnet 13.106.4.128/25
+    next
+
+    edit "office_auht4"
+        set type ipmask
+        set comment ''       
+        set subnet 13.75.48.16/29
+    next
+
+    edit "office_auht5"
+        set type ipmask
+        set comment ''       
+        set subnet 13.75.80.16/29
+    next
+
+    edit "office_auht6"
+        set type ipmask
+        set comment ''       
+        set subnet 13.106.56.0/25
+    next
+
+    edit "office_auht7"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.16.168/29
+    next
+
+    edit "office_auht8"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.32.136/29
+    next
+
+    edit "office_auht9"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.64.24/29
+    next
+
+    edit "office_auht10"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.72.32/29
+    next
+
+    edit "office_auht11"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.80.64/29
+    next
+
+    edit "office_auht12"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.88.32/29
+    next
+
+    edit "office_auht13"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.101.112/28
+    next
+
+    edit "office_auht14"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.104.16/28
+    next
+
+    edit "office_auht15"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.112.64/29
+    next
+
+    edit "office_auht16"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.120.64/29
+    next
+
+    edit "office_auht17"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.5.104/29
+    next
+
+    edit "office_auht18"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.144.136/29
+    next
+
+    edit "office_auht19"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.165.168/29
+    next
+
+    edit "office_auht20"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.181.128/29
+    next
+
+    edit "office_auht21"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.210.24/29
+    next
+
+    edit "office_auht22"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.222.240/28
+    next
+
+    edit "office_auht23"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.224.16/29
+    next
+
+    edit "office_auht24"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.226.16/28
+    next
+
+    edit "office_auht25"
+        set type ipmask
+        set comment ''       
+        set subnet 40.112.64.16/28
+    next
+
+    edit "office_auht26"
+        set type ipmask
+        set comment ''       
+        set subnet 40.113.192.16/29
+    next
+
+    edit "office_auht27"
+        set type ipmask
+        set comment ''       
+        set subnet 40.114.120.16/29
+    next
+
+    edit "office_auht28"
+        set type ipmask
+        set comment ''       
+        set subnet 40.115.152.16/28
+    next
+
+    edit "office_auht29"
+        set type ipmask
+        set comment ''       
+        set subnet 40.127.67.24/29
+    next
+
+    edit "office_auht30"
+        set type ipmask
+        set comment ''       
+        set subnet 52.125.0.0/17
+    next
+
+    edit "office_auht31"
+        set type ipmask
+        set comment ''       
+        set subnet 52.172.144.16/28
+    next
+
+    edit "office_auht32"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.1.16/29
+    next
+
+    edit "office_auht33"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.193.136/29
+    next
+
+    edit "office_auht34"
+        set type ipmask
+        set comment ''       
+        set subnet 65.54.170.128/25
+    next
+
+    edit "office_auht35"
+        set type ipmask
+        set comment ''       
+        set subnet 70.37.128.0/23
+    next
+
+    edit "office_auht36"
+        set type ipmask
+        set comment ''       
+        set subnet 104.40.240.48/28
+    next
+
+    edit "office_auht37"
+        set type ipmask
+        set comment ''       
+        set subnet 104.41.13.120/29
+    next
+
+    edit "office_auht38"
+        set type ipmask
+        set comment ''       
+        set subnet 104.41.216.16/28
+    next
+
+    edit "office_auht39"
+        set type ipmask
+        set comment ''       
+        set subnet 104.42.72.16/29
+    next
+
+    edit "office_auht40"
+        set type ipmask
+        set comment ''       
+        set subnet 104.43.208.16/29
+    next
+
+    edit "office_auht41"
+        set type ipmask
+        set comment ''       
+        set subnet 104.43.240.16/29
+    next
+
+    edit "office_auht42"
+        set type ipmask
+        set comment ''       
+        set subnet 104.44.218.128/25
+    next
+
+    edit "office_auht43"
+        set type ipmask
+        set comment ''       
+        set subnet 104.44.254.128/25
+    next
+
+    edit "office_auht44"
+        set type ipmask
+        set comment ''       
+        set subnet 104.44.255.0/25
+    next
+
+    edit "office_auht45"
+        set type ipmask
+        set comment ''       
+        set subnet 104.45.0.16/28
+    next
+
+    edit "office_auht46"
+        set type ipmask
+        set comment ''       
+        set subnet 104.45.208.104/29
+    next
+
+    edit "office_auht47"
+        set type ipmask
+        set comment ''       
+        set subnet 104.46.112.8/29
+    next
+
+    edit "office_auht48"
+        set type ipmask
+        set comment ''       
+        set subnet 104.46.224.64/28
+    next
+
+    edit "office_auht49"
+        set type ipmask
+        set comment ''       
+        set subnet 104.209.144.16/29
+    next
+
+    edit "office_auht50"
+        set type ipmask
+        set comment ''       
+        set subnet 104.210.48.8/29
+    next
+
+    edit "office_auht51"
+        set type ipmask
+        set comment ''       
+        set subnet 104.210.83.160/29
+    next
+
+    edit "office_auht52"
+        set type ipmask
+        set comment ''       
+        set subnet 104.210.208.16/29
+    next
+
+    edit "office_auht53"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.16.16/29
+    next
+
+    edit "office_auht54"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.48.16/29
+    next
+
+    edit "office_auht55"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.88.16/28
+    next
+
+    edit "office_auht56"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.98.138/32
+    next
+
+    edit "office_auht57"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.98.146/32
+    next
+
+    edit "office_auht58"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.98.246/32
+    next
+
+    edit "office_auht59"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.99.236/32
+    next
+
+    edit "office_auht60"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.100.160/32
+    next
+
+    edit "office_auht61"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.100.204/32
+    next
+
+    edit "office_auht62"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.102.225/32
+    next
+
+    edit "office_auht63"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.152.32/27
+    next
+
+    edit "office_auht64"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.161.150/32
+    next
+
+    edit "office_auht65"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.161.165/32
+    next
+
+    edit "office_auht66"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.161.185/32
+    next
+
+    edit "office_auht67"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.162.33/32
+    next
+
+    edit "office_auht68"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.165.35/32
+    next
+
+    edit "office_auht69"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.166.139/32
+    next
+
+    edit "office_auht70"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.216.32/27
+    next
+
+    edit "office_auht71"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.224.118/32
+    next
+
+    edit "office_auht72"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.225.135/32
+    next
+
+    edit "office_auht73"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.227.110/32
+    next
+
+    edit "office_auht74"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.231.147/32
+    next
+
+    edit "office_auht75"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.231.248/32
+    next
+
+    edit "office_auht76"
+        set type ipmask
+        set comment ''       
+        set subnet 104.215.96.24/29
+    next
+
+    edit "office_auht77"
+        set type ipmask
+        set comment ''       
+        set subnet 104.215.144.64/29
+    next
+
+    edit "office_auht78"
+        set type ipmask
+        set comment ''       
+        set subnet 104.215.184.16/29
+    next
+
+    edit "office_auht79"
+        set type ipmask
+        set comment ''       
+        set subnet 131.253.120.128/32
+    next
+
+    edit "office_auht80"
+        set type ipmask
+        set comment ''       
+        set subnet 132.245.165.0/25
+    next
+
+    edit "office_auht81"
+        set type ipmask
+        set comment ''       
+        set subnet 134.170.67.0/25
+    next
+
+    edit "office_auht82"
+        set type ipmask
+        set comment ''       
+        set subnet 134.170.172.128/25
+    next
+
+    edit "office_auht83"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.45.128/25
+    next
+
+    edit "office_auht84"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.59.128/25
+    next
+
+    edit "office_auht85"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.130.0/25
+    next
+
+    edit "office_auht86"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.145.0/25
+    next
+
+    edit "office_auht87"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.155.0/25
+    next
+
+    edit "office_auht88"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.227.192/26
+    next
+
+    edit "office_auht89"
+        set type ipmask
+        set comment ''       
+        set subnet 157.56.53.128/25
+    next
+
+    edit "office_auht90"
+        set type ipmask
+        set comment ''       
+        set subnet 157.56.55.0/25
+    next
+
+    edit "office_auht91"
+        set type ipmask
+        set comment ''       
+        set subnet 157.56.58.0/25
+    next
+
+    edit "office_auht92"
+        set type ipmask
+        set comment ''       
+        set subnet 157.56.151.0/25
+    next
+
+    edit "office_auht93"
+        set type ipmask
+        set comment ''       
+        set subnet 191.232.2.128/25
+    next
+
+    edit "office_auht94"
+        set type ipmask
+        set comment ''       
+        set subnet 191.237.248.32/29
+    next
+
+    edit "office_auht95"
+        set type ipmask
+        set comment ''       
+        set subnet 191.237.252.192/28
+    next
+end

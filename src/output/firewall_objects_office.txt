@@ -1,0 +1,271 @@
+Newconfig firewall address
+    edit "offce_1"
+        set type ipmask
+        set comment ''       
+        set subnet 13.69.187.20/32
+    next
+
+    edit "offce_2"
+        set type ipmask
+        set comment ''       
+        set subnet 13.70.184.242/32
+    next
+
+    edit "offce_3"
+        set type ipmask
+        set comment ''       
+        set subnet 13.71.155.176/32
+    next
+
+    edit "offce_4"
+        set type ipmask
+        set comment ''       
+        set subnet 13.75.153.216/32
+    next
+
+    edit "offce_5"
+        set type ipmask
+        set comment ''       
+        set subnet 13.76.140.48/32
+    next
+
+    edit "offce_6"
+        set type ipmask
+        set comment ''       
+        set subnet 13.78.114.39/32
+    next
+
+    edit "offce_7"
+        set type ipmask
+        set comment ''       
+        set subnet 13.85.84.102/32
+    next
+
+    edit "offce_8"
+        set type ipmask
+        set comment ''       
+        set subnet 13.88.248.161/32
+    next
+
+    edit "offce_9"
+        set type ipmask
+        set comment ''       
+        set subnet 13.88.254.212/32
+    next
+
+    edit "offce_10"
+        set type ipmask
+        set comment ''       
+        set subnet 13.107.6.171/32
+    next
+
+    edit "offce_11"
+        set type ipmask
+        set comment ''       
+        set subnet 13.107.6.172/32
+    next
+
+    edit "offce_12"
+        set type ipmask
+        set comment ''       
+        set subnet 23.98.219.76/32
+    next
+
+    edit "offce_13"
+        set type ipmask
+        set comment ''       
+        set subnet 40.68.166.51/32
+    next
+
+    edit "offce_14"
+        set type ipmask
+        set comment ''       
+        set subnet 40.71.251.78/32
+    next
+
+    edit "offce_15"
+        set type ipmask
+        set comment ''       
+        set subnet 40.74.130.243/32
+    next
+
+    edit "offce_16"
+        set type ipmask
+        set comment ''       
+        set subnet 40.74.138.42/32
+    next
+
+    edit "offce_17"
+        set type ipmask
+        set comment ''       
+        set subnet 40.86.230.88/32
+    next
+
+    edit "offce_18"
+        set type ipmask
+        set comment ''       
+        set subnet 40.87.61.217/32
+    next
+
+    edit "offce_19"
+        set type ipmask
+        set comment ''       
+        set subnet 40.114.192.209/32
+    next
+
+    edit "offce_20"
+        set type ipmask
+        set comment ''       
+        set subnet 40.117.226.146/32
+    next
+
+    edit "offce_21"
+        set type ipmask
+        set comment ''       
+        set subnet 40.126.236.216/32
+    next
+
+    edit "offce_22"
+        set type ipmask
+        set comment ''       
+        set subnet 40.127.79.139/32
+    next
+
+    edit "offce_23"
+        set type ipmask
+        set comment ''       
+        set subnet 51.140.46.128/32
+    next
+
+    edit "offce_24"
+        set type ipmask
+        set comment ''       
+        set subnet 51.140.46.150/32
+    next
+
+    edit "offce_25"
+        set type ipmask
+        set comment ''       
+        set subnet 51.141.1.194/32
+    next
+
+    edit "offce_26"
+        set type ipmask
+        set comment ''       
+        set subnet 51.141.8.160/32
+    next
+
+    edit "offce_27"
+        set type ipmask
+        set comment ''       
+        set subnet 52.108.0.0/14
+    next
+
+    edit "offce_28"
+        set type ipmask
+        set comment ''       
+        set subnet 52.164.242.47/32
+    next
+
+    edit "offce_29"
+        set type ipmask
+        set comment ''       
+        set subnet 52.169.109.48/32
+    next
+
+    edit "offce_30"
+        set type ipmask
+        set comment ''       
+        set subnet 52.172.12.123/32
+    next
+
+    edit "offce_31"
+        set type ipmask
+        set comment ''       
+        set subnet 52.172.13.171/32
+    next
+
+    edit "offce_32"
+        set type ipmask
+        set comment ''       
+        set subnet 52.172.152.100/32
+    next
+
+    edit "offce_33"
+        set type ipmask
+        set comment ''       
+        set subnet 52.172.153.104/32
+    next
+
+    edit "offce_34"
+        set type ipmask
+        set comment ''       
+        set subnet 52.174.190.59/32
+    next
+
+    edit "offce_35"
+        set type ipmask
+        set comment ''       
+        set subnet 52.175.25.142/32
+    next
+
+    edit "offce_36"
+        set type ipmask
+        set comment ''       
+        set subnet 52.232.128.169/32
+    next
+
+    edit "offce_37"
+        set type ipmask
+        set comment ''       
+        set subnet 104.40.225.204/32
+    next
+
+    edit "offce_38"
+        set type ipmask
+        set comment ''       
+        set subnet 104.41.62.54/32
+    next
+
+    edit "offce_39"
+        set type ipmask
+        set comment ''       
+        set subnet 104.214.38.136/32
+    next
+
+    edit "offce_40"
+        set type ipmask
+        set comment ''       
+        set subnet 104.215.194.17/32
+    next
+
+    edit "offce_41"
+        set type ipmask
+        set comment ''       
+        set subnet 137.116.172.39/32
+    next
+
+    edit "offce_42"
+        set type ipmask
+        set comment ''       
+        set subnet 137.135.65.72/32
+    next
+
+    edit "offce_43"
+        set type ipmask
+        set comment ''       
+        set subnet 191.235.84.172/32
+    next
+
+    edit "offce_44"
+        set type ipmask
+        set comment ''       
+        set subnet 191.235.87.181/32
+    next
+
+    edit "offce_45"
+        set type ipmask
+        set comment ''       
+        set subnet 191.237.40.220/32
+    next
+end

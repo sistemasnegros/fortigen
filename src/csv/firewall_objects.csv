@@ -1,0 +1,2 @@
+#$name,$network,$netmask,$comentario
+Servidor_correo,192.168.0.7,255.255.255.255,

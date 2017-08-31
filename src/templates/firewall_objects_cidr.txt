@@ -1,0 +1,7 @@
+config firewall address
+    edit "$name"
+        set type ipmask
+        set comment '$comentario'       
+        set subnet $network
+    next
+end

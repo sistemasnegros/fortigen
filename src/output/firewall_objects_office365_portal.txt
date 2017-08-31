@@ -1,0 +1,1057 @@
+Newconfig firewall address
+    edit "office_portal_1"
+        set type ipmask
+        set comment ''       
+        set subnet 13.65.240.22/32
+    next
+
+    edit "office_portal_2"
+        set type ipmask
+        set comment ''       
+        set subnet 13.66.58.59/32
+    next
+
+    edit "office_portal_3"
+        set type ipmask
+        set comment ''       
+        set subnet 13.70.156.206/32
+    next
+
+    edit "office_portal_4"
+        set type ipmask
+        set comment ''       
+        set subnet 13.71.145.114/32
+    next
+
+    edit "office_portal_5"
+        set type ipmask
+        set comment ''       
+        set subnet 13.71.145.122/32
+    next
+
+    edit "office_portal_6"
+        set type ipmask
+        set comment ''       
+        set subnet 13.75.149.223/32
+    next
+
+    edit "office_portal_7"
+        set type ipmask
+        set comment ''       
+        set subnet 13.71.151.88/32
+    next
+
+    edit "office_portal_8"
+        set type ipmask
+        set comment ''       
+        set subnet 13.78.120.69/32
+    next
+
+    edit "office_portal_9"
+        set type ipmask
+        set comment ''       
+        set subnet 13.78.120.70/32
+    next
+
+    edit "office_portal_10"
+        set type ipmask
+        set comment ''       
+        set subnet 13.78.120.99/32
+    next
+
+    edit "office_portal_11"
+        set type ipmask
+        set comment ''       
+        set subnet 13.78.122.54/32
+    next
+
+    edit "office_portal_12"
+        set type ipmask
+        set comment ''       
+        set subnet 13.84.216.209/32
+    next
+
+    edit "office_portal_13"
+        set type ipmask
+        set comment ''       
+        set subnet 13.84.219.100/32
+    next
+
+    edit "office_portal_14"
+        set type ipmask
+        set comment ''       
+        set subnet 13.84.222.249/32
+    next
+
+    edit "office_portal_15"
+        set type ipmask
+        set comment ''       
+        set subnet 13.87.36.128/32
+    next
+
+    edit "office_portal_16"
+        set type ipmask
+        set comment ''       
+        set subnet 13.88.17.54/32
+    next
+
+    edit "office_portal_17"
+        set type ipmask
+        set comment ''       
+        set subnet 13.92.181.66/32
+    next
+
+    edit "office_portal_18"
+        set type ipmask
+        set comment ''       
+        set subnet 13.92.236.241/32
+    next
+
+    edit "office_portal_19"
+        set type ipmask
+        set comment ''       
+        set subnet 13.93.164.45/32
+    next
+
+    edit "office_portal_20"
+        set type ipmask
+        set comment ''       
+        set subnet 13.107.6.156/31
+    next
+
+    edit "office_portal_21"
+        set type ipmask
+        set comment ''       
+        set subnet 13.107.7.190/31
+    next
+
+    edit "office_portal_22"
+        set type ipmask
+        set comment ''       
+        set subnet 13.107.9.156/31
+    next
+
+    edit "office_portal_23"
+        set type ipmask
+        set comment ''       
+        set subnet 23.96.32.105/32
+    next
+
+    edit "office_portal_24"
+        set type ipmask
+        set comment ''       
+        set subnet 23.96.251.50/32
+    next
+
+    edit "office_portal_25"
+        set type ipmask
+        set comment ''       
+        set subnet 23.96.253.65/32
+    next
+
+    edit "office_portal_26"
+        set type ipmask
+        set comment ''       
+        set subnet 23.97.66.55/32
+    next
+
+    edit "office_portal_27"
+        set type ipmask
+        set comment ''       
+        set subnet 23.97.78.94/32
+    next
+
+    edit "office_portal_28"
+        set type ipmask
+        set comment ''       
+        set subnet 23.99.121.16/32
+    next
+
+    edit "office_portal_29"
+        set type ipmask
+        set comment ''       
+        set subnet 23.99.125.4/32
+    next
+
+    edit "office_portal_30"
+        set type ipmask
+        set comment ''       
+        set subnet 40.71.88.196/32
+    next
+
+    edit "office_portal_31"
+        set type ipmask
+        set comment ''       
+        set subnet 40.83.120.174/32
+    next
+
+    edit "office_portal_32"
+        set type ipmask
+        set comment ''       
+        set subnet 40.83.185.155/32
+    next
+
+    edit "office_portal_33"
+        set type ipmask
+        set comment ''       
+        set subnet 40.83.185.230/32
+    next
+
+    edit "office_portal_34"
+        set type ipmask
+        set comment ''       
+        set subnet 40.84.145.72/32
+    next
+
+    edit "office_portal_35"
+        set type ipmask
+        set comment ''       
+        set subnet 40.112.187.89/32
+    next
+
+    edit "office_portal_36"
+        set type ipmask
+        set comment ''       
+        set subnet 40.117.96.104/32
+    next
+
+    edit "office_portal_37"
+        set type ipmask
+        set comment ''       
+        set subnet 40.117.100.187/32
+    next
+
+    edit "office_portal_38"
+        set type ipmask
+        set comment ''       
+        set subnet 40.117.229.133/32
+    next
+
+    edit "office_portal_39"
+        set type ipmask
+        set comment ''       
+        set subnet 40.117.229.194/32
+    next
+
+    edit "office_portal_40"
+        set type ipmask
+        set comment ''       
+        set subnet 51.140.45.81/32
+    next
+
+    edit "office_portal_41"
+        set type ipmask
+        set comment ''       
+        set subnet 51.140.226.217/32
+    next
+
+    edit "office_portal_42"
+        set type ipmask
+        set comment ''       
+        set subnet 51.142.213.184/32
+    next
+
+    edit "office_portal_43"
+        set type ipmask
+        set comment ''       
+        set subnet 52.163.58.153/32
+    next
+
+    edit "office_portal_44"
+        set type ipmask
+        set comment ''       
+        set subnet 52.163.93.38/32
+    next
+
+    edit "office_portal_45"
+        set type ipmask
+        set comment ''       
+        set subnet 52.172.49.206/32
+    next
+
+    edit "office_portal_46"
+        set type ipmask
+        set comment ''       
+        set subnet 52.175.154.183/32
+    next
+
+    edit "office_portal_47"
+        set type ipmask
+        set comment ''       
+        set subnet 52.175.158.8/32
+    next
+
+    edit "office_portal_48"
+        set type ipmask
+        set comment ''       
+        set subnet 52.178.27.129/32
+    next
+
+    edit "office_portal_49"
+        set type ipmask
+        set comment ''       
+        set subnet 52.178.144.25/32
+    next
+
+    edit "office_portal_50"
+        set type ipmask
+        set comment ''       
+        set subnet 52.178.146.3/32
+    next
+
+    edit "office_portal_51"
+        set type ipmask
+        set comment ''       
+        set subnet 52.178.146.67/32
+    next
+
+    edit "office_portal_52"
+        set type ipmask
+        set comment ''       
+        set subnet 52.178.150.186/32
+    next
+
+    edit "office_portal_53"
+        set type ipmask
+        set comment ''       
+        set subnet 52.185.154.106/32
+    next
+
+    edit "office_portal_54"
+        set type ipmask
+        set comment ''       
+        set subnet 52.187.42.197/32
+    next
+
+    edit "office_portal_55"
+        set type ipmask
+        set comment ''       
+        set subnet 52.187.78.144/32
+    next
+
+    edit "office_portal_56"
+        set type ipmask
+        set comment ''       
+        set subnet 52.228.36.141/32
+    next
+
+    edit "office_portal_57"
+        set type ipmask
+        set comment ''       
+        set subnet 52.230.24.83/32
+    next
+
+    edit "office_portal_58"
+        set type ipmask
+        set comment ''       
+        set subnet 52.231.24.115/32
+    next
+
+    edit "office_portal_59"
+        set type ipmask
+        set comment ''       
+        set subnet 52.231.204.153/32
+    next
+
+    edit "office_portal_60"
+        set type ipmask
+        set comment ''       
+        set subnet 52.232.112.133/32
+    next
+
+    edit "office_portal_61"
+        set type ipmask
+        set comment ''       
+        set subnet 52.232.118.68/32
+    next
+
+    edit "office_portal_62"
+        set type ipmask
+        set comment ''       
+        set subnet 52.232.129.232/32
+    next
+
+    edit "office_portal_63"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.144.46/32
+    next
+
+    edit "office_portal_64"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.176.186/32
+    next
+
+    edit "office_portal_65"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.192.203/32
+    next
+
+    edit "office_portal_66"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.240.200/32
+    next
+
+    edit "office_portal_67"
+        set type ipmask
+        set comment ''       
+        set subnet 65.55.239.168/32
+    next
+
+    edit "office_portal_68"
+        set type ipmask
+        set comment ''       
+        set subnet 70.37.96.155/32
+    next
+
+    edit "office_portal_69"
+        set type ipmask
+        set comment ''       
+        set subnet 94.245.88.28/32
+    next
+
+    edit "office_portal_70"
+        set type ipmask
+        set comment ''       
+        set subnet 94.245.117.53/32
+    next
+
+    edit "office_portal_71"
+        set type ipmask
+        set comment ''       
+        set subnet 104.40.178.127/32
+    next
+
+    edit "office_portal_72"
+        set type ipmask
+        set comment ''       
+        set subnet 104.40.179.160/32
+    next
+
+    edit "office_portal_73"
+        set type ipmask
+        set comment ''       
+        set subnet 104.42.225.143/32
+    next
+
+    edit "office_portal_74"
+        set type ipmask
+        set comment ''       
+        set subnet 104.42.230.91/32
+    next
+
+    edit "office_portal_75"
+        set type ipmask
+        set comment ''       
+        set subnet 104.45.225.7/32
+    next
+
+    edit "office_portal_76"
+        set type ipmask
+        set comment ''       
+        set subnet 104.47.156.62/32
+    next
+
+    edit "office_portal_77"
+        set type ipmask
+        set comment ''       
+        set subnet 104.211.160.244/32
+    next
+
+    edit "office_portal_78"
+        set type ipmask
+        set comment ''       
+        set subnet 104.214.144.62/32
+    next
+
+    edit "office_portal_79"
+        set type ipmask
+        set comment ''       
+        set subnet 104.214.144.252/32
+    next
+
+    edit "office_portal_80"
+        set type ipmask
+        set comment ''       
+        set subnet 104.214.145.126/32
+    next
+
+    edit "office_portal_81"
+        set type ipmask
+        set comment ''       
+        set subnet 104.214.145.173/32
+    next
+
+    edit "office_portal_82"
+        set type ipmask
+        set comment ''       
+        set subnet 104.214.146.199/32
+    next
+
+    edit "office_portal_83"
+        set type ipmask
+        set comment ''       
+        set subnet 111.221.96.149/32
+    next
+
+    edit "office_portal_84"
+        set type ipmask
+        set comment ''       
+        set subnet 111.221.104.43/32
+    next
+
+    edit "office_portal_85"
+        set type ipmask
+        set comment ''       
+        set subnet 137.116.156.3/32
+    next
+
+    edit "office_portal_86"
+        set type ipmask
+        set comment ''       
+        set subnet 137.116.248.150/32
+    next
+
+    edit "office_portal_87"
+        set type ipmask
+        set comment ''       
+        set subnet 137.117.17.124/32
+    next
+
+    edit "office_portal_88"
+        set type ipmask
+        set comment ''       
+        set subnet 138.91.61.107/32
+    next
+
+    edit "office_portal_89"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.139.177/32
+    next
+
+    edit "office_portal_90"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.145.0/25
+    next
+
+    edit "office_portal_91"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.155.0/25
+    next
+
+    edit "office_portal_92"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.212.37/32
+    next
+
+    edit "office_portal_93"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.227.192/26
+    next
+
+    edit "office_portal_94"
+        set type ipmask
+        set comment ''       
+        set subnet 168.62.104.83/32
+    next
+
+    edit "office_portal_95"
+        set type ipmask
+        set comment ''       
+        set subnet 168.62.106.224/32
+    next
+
+    edit "office_portal_96"
+        set type ipmask
+        set comment ''       
+        set subnet 168.63.92.133/32
+    next
+
+    edit "office_portal_97"
+        set type ipmask
+        set comment ''       
+        set subnet 191.235.95.142/32
+    next
+
+    edit "office_portal_98"
+        set type ipmask
+        set comment ''       
+        set subnet 191.238.160.173/32
+    next
+
+    edit "office_portal_99"
+        set type ipmask
+        set comment ''       
+        set subnet 207.46.73.250/32
+    next
+
+    edit "office_portal_100"
+        set type ipmask
+        set comment ''       
+        set subnet 207.46.141.38/32
+    next
+
+    edit "office_portal_101"
+        set type ipmask
+        set comment ''       
+        set subnet 207.46.156.124/32
+    next
+
+    edit "office_portal_102"
+        set type ipmask
+        set comment ''       
+        set subnet 207.46.216.54/32
+    next
+
+    edit "office_portal_103"
+        set type ipmask
+        set comment ''       
+        set subnet 213.199.128.119/32
+    next
+
+    edit "office_portal_104"
+        set type ipmask
+        set comment ''       
+        set subnet 13.64.196.27/32
+    next
+
+    edit "office_portal_105"
+        set type ipmask
+        set comment ''       
+        set subnet 13.64.198.19/32
+    next
+
+    edit "office_portal_106"
+        set type ipmask
+        set comment ''       
+        set subnet 13.64.198.97/32
+    next
+
+    edit "office_portal_107"
+        set type ipmask
+        set comment ''       
+        set subnet 13.64.199.41/32
+    next
+
+    edit "office_portal_108"
+        set type ipmask
+        set comment ''       
+        set subnet 13.76.218.117/32
+    next
+
+    edit "office_portal_109"
+        set type ipmask
+        set comment ''       
+        set subnet 13.76.219.191/32
+    next
+
+    edit "office_portal_110"
+        set type ipmask
+        set comment ''       
+        set subnet 13.76.219.210/32
+    next
+
+    edit "office_portal_111"
+        set type ipmask
+        set comment ''       
+        set subnet 13.91.61.249/32
+    next
+
+    edit "office_portal_112"
+        set type ipmask
+        set comment ''       
+        set subnet 13.91.98.185/32
+    next
+
+    edit "office_portal_113"
+        set type ipmask
+        set comment ''       
+        set subnet 13.93.216.68/32
+    next
+
+    edit "office_portal_114"
+        set type ipmask
+        set comment ''       
+        set subnet 13.93.233.42/32
+    next
+
+    edit "office_portal_115"
+        set type ipmask
+        set comment ''       
+        set subnet 23.97.61.137/32
+    next
+
+    edit "office_portal_116"
+        set type ipmask
+        set comment ''       
+        set subnet 23.97.150.21/32
+    next
+
+    edit "office_portal_117"
+        set type ipmask
+        set comment ''       
+        set subnet 23.97.152.190/32
+    next
+
+    edit "office_portal_118"
+        set type ipmask
+        set comment ''       
+        set subnet 23.97.209.97/32
+    next
+
+    edit "office_portal_119"
+        set type ipmask
+        set comment ''       
+        set subnet 23.99.109.44/32
+    next
+
+    edit "office_portal_120"
+        set type ipmask
+        set comment ''       
+        set subnet 23.99.109.64/32
+    next
+
+    edit "office_portal_121"
+        set type ipmask
+        set comment ''       
+        set subnet 23.99.116.116/32
+    next
+
+    edit "office_portal_122"
+        set type ipmask
+        set comment ''       
+        set subnet 23.99.121.207/32
+    next
+
+    edit "office_portal_123"
+        set type ipmask
+        set comment ''       
+        set subnet 23.100.86.91/32
+    next
+
+    edit "office_portal_124"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.14.229/32
+    next
+
+    edit "office_portal_125"
+        set type ipmask
+        set comment ''       
+        set subnet 23.101.30.126/32
+    next
+
+    edit "office_portal_126"
+        set type ipmask
+        set comment ''       
+        set subnet 23.102.4.253/32
+    next
+
+    edit "office_portal_127"
+        set type ipmask
+        set comment ''       
+        set subnet 40.76.1.176/32
+    next
+
+    edit "office_portal_128"
+        set type ipmask
+        set comment ''       
+        set subnet 40.76.8.142/32
+    next
+
+    edit "office_portal_129"
+        set type ipmask
+        set comment ''       
+        set subnet 40.76.12.4/32
+    next
+
+    edit "office_portal_130"
+        set type ipmask
+        set comment ''       
+        set subnet 40.76.12.162/32
+    next
+
+    edit "office_portal_131"
+        set type ipmask
+        set comment ''       
+        set subnet 40.113.8.255/32
+    next
+
+    edit "office_portal_132"
+        set type ipmask
+        set comment ''       
+        set subnet 40.113.10.78/32
+    next
+
+    edit "office_portal_133"
+        set type ipmask
+        set comment ''       
+        set subnet 40.113.11.93/32
+    next
+
+    edit "office_portal_134"
+        set type ipmask
+        set comment ''       
+        set subnet 40.113.14.159/32
+    next
+
+    edit "office_portal_135"
+        set type ipmask
+        set comment ''       
+        set subnet 40.117.144.240/32
+    next
+
+    edit "office_portal_136"
+        set type ipmask
+        set comment ''       
+        set subnet 40.117.151.29/32
+    next
+
+    edit "office_portal_137"
+        set type ipmask
+        set comment ''       
+        set subnet 40.118.211.172/32
+    next
+
+    edit "office_portal_138"
+        set type ipmask
+        set comment ''       
+        set subnet 40.121.144.182/32
+    next
+
+    edit "office_portal_139"
+        set type ipmask
+        set comment ''       
+        set subnet 40.122.168.103/32
+    next
+
+    edit "office_portal_140"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.148.27/32
+    next
+
+    edit "office_portal_141"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.160.218/32
+    next
+
+    edit "office_portal_142"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.184.75/32
+    next
+
+    edit "office_portal_143"
+        set type ipmask
+        set comment ''       
+        set subnet 65.52.196.64/32
+    next
+
+    edit "office_portal_144"
+        set type ipmask
+        set comment ''       
+        set subnet 70.37.97.234/32
+    next
+
+    edit "office_portal_145"
+        set type ipmask
+        set comment ''       
+        set subnet 94.245.108.85/32
+    next
+
+    edit "office_portal_146"
+        set type ipmask
+        set comment ''       
+        set subnet 104.41.207.73/32
+    next
+
+    edit "office_portal_147"
+        set type ipmask
+        set comment ''       
+        set subnet 104.42.231.28/32
+    next
+
+    edit "office_portal_148"
+        set type ipmask
+        set comment ''       
+        set subnet 104.43.140.223/32
+    next
+
+    edit "office_portal_149"
+        set type ipmask
+        set comment ''       
+        set subnet 104.45.11.195/32
+    next
+
+    edit "office_portal_150"
+        set type ipmask
+        set comment ''       
+        set subnet 104.46.38.64/32
+    next
+
+    edit "office_portal_151"
+        set type ipmask
+        set comment ''       
+        set subnet 104.46.50.125/32
+    next
+
+    edit "office_portal_152"
+        set type ipmask
+        set comment ''       
+        set subnet 104.209.35.177/32
+    next
+
+    edit "office_portal_153"
+        set type ipmask
+        set comment ''       
+        set subnet 104.215.146.200/32
+    next
+
+    edit "office_portal_154"
+        set type ipmask
+        set comment ''       
+        set subnet 104.215.198.144/32
+    next
+
+    edit "office_portal_155"
+        set type ipmask
+        set comment ''       
+        set subnet 111.221.111.196/32
+    next
+
+    edit "office_portal_156"
+        set type ipmask
+        set comment ''       
+        set subnet 137.116.66.126/32
+    next
+
+    edit "office_portal_157"
+        set type ipmask
+        set comment ''       
+        set subnet 137.116.81.187/32
+    next
+
+    edit "office_portal_158"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.177.39/32
+    next
+
+    edit "office_portal_159"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.184.223/32
+    next
+
+    edit "office_portal_160"
+        set type ipmask
+        set comment ''       
+        set subnet 157.55.80.94/32
+    next
+
+    edit "office_portal_161"
+        set type ipmask
+        set comment ''       
+        set subnet 168.61.146.25/32
+    next
+
+    edit "office_portal_162"
+        set type ipmask
+        set comment ''       
+        set subnet 168.61.149.17/32
+    next
+
+    edit "office_portal_163"
+        set type ipmask
+        set comment ''       
+        set subnet 168.61.170.80/32
+    next
+
+    edit "office_portal_164"
+        set type ipmask
+        set comment ''       
+        set subnet 168.61.172.71/32
+    next
+
+    edit "office_portal_165"
+        set type ipmask
+        set comment ''       
+        set subnet 168.62.204.209/32
+    next
+
+    edit "office_portal_166"
+        set type ipmask
+        set comment ''       
+        set subnet 168.62.29.225/32
+    next
+
+    edit "office_portal_167"
+        set type ipmask
+        set comment ''       
+        set subnet 168.62.43.8/32
+    next
+
+    edit "office_portal_168"
+        set type ipmask
+        set comment ''       
+        set subnet 168.63.18.79/32
+    next
+
+    edit "office_portal_169"
+        set type ipmask
+        set comment ''       
+        set subnet 168.63.29.74/32
+    next
+
+    edit "office_portal_170"
+        set type ipmask
+        set comment ''       
+        set subnet 168.63.100.61/32
+    next
+
+    edit "office_portal_171"
+        set type ipmask
+        set comment ''       
+        set subnet 168.63.138.56/32
+    next
+
+    edit "office_portal_172"
+        set type ipmask
+        set comment ''       
+        set subnet 168.63.172.54/32
+    next
+
+    edit "office_portal_173"
+        set type ipmask
+        set comment ''       
+        set subnet 168.63.213.238/32
+    next
+
+    edit "office_portal_174"
+        set type ipmask
+        set comment ''       
+        set subnet 191.237.218.239/32
+    next
+
+    edit "office_portal_175"
+        set type ipmask
+        set comment ''       
+        set subnet 207.46.134.255/32
+    next
+
+    edit "office_portal_176"
+        set type ipmask
+        set comment ''       
+        set subnet 207.46.153.155/32
+    next
+end

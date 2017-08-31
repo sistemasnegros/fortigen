@@ -1,0 +1,2 @@
+#$name,$interface,$ext_ip,$host_int  ,$port_int,$port_ext
+smtp  ,wan1      ,0.0.0.0,192.168.0.7,25       ,25       
